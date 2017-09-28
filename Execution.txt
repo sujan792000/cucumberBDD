@@ -1,0 +1,4 @@
+Clone the project into your local computer
+Import the project as maven project using IntelliJ IDE
+To run the test on chrome browser - You need to add chome driver binary file into the /libs/driver directory
+Run the "RUNCUKESIT" file to execute the scenarios.
