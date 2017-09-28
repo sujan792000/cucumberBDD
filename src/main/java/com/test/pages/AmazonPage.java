@@ -1,10 +1,7 @@
 package com.test.pages;
 
-import com.gargoylesoftware.htmlunit.javascript.host.canvas.ext.WEBGL_compressed_texture_s3tc;
 import com.test.utils.WebDriverHelper;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.FindBy;
 
 
 public class AmazonPage {
